@@ -1,3 +1,6 @@
 # kenshu-trainer
 
-hello, world!
+//kenshu edited.
+HELLO, WORLD.
+
+hello, tokyo.
