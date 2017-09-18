@@ -1,0 +1,3 @@
+# kenshu-trainer
+
+hello, world!
